@@ -90,12 +90,12 @@ Right Here: https://similarity-api-next.vercel.app
   <tr>
     <td>Home Page</td>
      <td>Documentation Page</td>
-     <td>User Dashboard</td>
+    
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/97472180/232338285-539d39ec-27be-4d6b-9ffe-39fb04ced0bf.png" width=250 height=600></td>
     <td><img src="https://user-images.githubusercontent.com/97472180/232338302-ea6f582d-32be-40b1-aaef-bf9d2edb0807.png" width=250 height=600></td>
-    <td><img src="https://user-images.githubusercontent.com/97472180/232338300-0160b0d2-ae31-4be1-82a5-46f9b44488f9.png" width=250 height=600></td>
+    
   </tr>
  </table>
 </p>
