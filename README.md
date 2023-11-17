@@ -116,6 +116,3 @@ Right Here: https://similarity-api-next.vercel.app
 
 <br />
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
