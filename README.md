@@ -56,18 +56,6 @@ Right Here: https://similarity-api-next.vercel.app
 </table>
 </p>
 
-<p align="center">
-<table>
-<tr>
-<td>User Dashboard</td>
-<td>User Dashboard</td>
-</tr>
-<tr>
-<td><img src="https://user-images.githubusercontent.com/97472180/232338297-20b5b0d1-d67e-41fc-a308-725ac5aab0f7.png" height="270" width="500" alt="User Dashboard"></td>
-<td><img src="https://user-images.githubusercontent.com/97472180/232338299-3138e8d0-7b5e-47b6-84e0-4541ef91c31e.png" height="270" width="500" alt="User Dashboard"></td>
-</tr>
-</table>
-</p>
 
 <p align="center">
 <table>
