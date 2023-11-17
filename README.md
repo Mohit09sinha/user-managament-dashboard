@@ -1,6 +1,4 @@
-# Similarity API
 
-![Similarity-API-gif](https://user-images.githubusercontent.com/97472180/232347078-333578bd-e49e-4e48-bcfe-238b0266198f.gif)
 
 <br>
 
